@@ -1,2 +1,2 @@
 # Coding_Challenge_6
-"added Manager Class with inheritance
+"added Manager Class with inheritance"
